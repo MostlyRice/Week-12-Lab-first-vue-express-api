@@ -2,6 +2,12 @@
 
 Week 12 Lab for MCTC's Web Client and Server Programming class.
 
+Deployed here at:
+
+```
+https://hello-vue-2560-james.azurewebsites.net/
+```
+
 ## Project setup
 
 ```
